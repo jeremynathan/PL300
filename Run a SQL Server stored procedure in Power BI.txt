@@ -1,0 +1,19 @@
+Invoke a Function as a SQL Stored Procedure Parameter in Power BI:
+*Here I used AdventureWorks2019 database
+
+1) Get Data, SQL Server, in the statement area under Advanced options type: EXEC stored_proc_name ‘input’  (this input is an example of what a parameter would be).
+EXEC [dbo].[uspGetEmployeeManagers] '20'
+
+2) Click ok, click on Transform data to get into Power Query Editor
+
+3) Click on  Home, Advanced Editor and type this for example:
+
+let 
+    Param = (BusinessEntityIDx as text) =>
+
+let
+    Source = Sql.Database(".", "AdventureWorks", [Query="EXECUTE [dbo].[uspGetEmployeeManagers] '"& BusinessEntityIDx &"'"])
+in
+    Source
+in 
+    Param
