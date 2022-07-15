@@ -9,3 +9,5 @@ Word: Tips on Passing the PL-300 exam
 Txt: run a SQL Server stored procedure in PBI
 
 Date table: run as a new blank query, go to Advanced Editor, replace all text with text from this file
+
+Dax Reference Cheat Sheet pbix file: shows the name, description syntax, and link to Microsoft Docs for each dax function.
