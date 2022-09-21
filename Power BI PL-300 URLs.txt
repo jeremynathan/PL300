@@ -1,0 +1,75 @@
+Power BI PL-300 Urls
+
+Free lab to run Power BI
+https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/8-lab
+
+PL300 Github
+https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst
+
+https://learn.microsoft.com/en-us/certifications/exams/pl-300
+
+
+Create and manage relationships in Power BI Desktop
+https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-create-and-manage-relationships
+
+https://learn.microsoft.com/en-us/power-bi/guidance/rls-guidance
+
+https://learn.microsoft.com/en--us/power-query/data-profiling-tools
+
+https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-directquery-about
+
+Merge queries overview
+https://learn.microsoft.com/en-us/power-query/merge-queries-overview
+
+https://learn.microsoft.com/en-us/powerquery-m/
+
+https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery
+ 
+https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-roles-new-workspaces
+
+Download power BI report builder for paginated reports: 
+https://www.microsoft.com/en-us/download/details.aspx?id=58158
+
+On-premises reporting with Power BI Report Server
+https://powerbi.microsoft.com/en-us/report-server/
+
+
+https://docs.microsoft.com/en-us/powerquery-m/table-distinct
+
+
+Import data from a database using native database query
+https://learn.microsoft.com/en-us/power-query/native-database-query?WT.mc_id=DP-MVP-5003635
+
+
+
+DAX
+https://learn.microsoft.com/en-us/dax/
+https://docs.microsoft.com/en-us/dax/dax-function-reference
+
+https://www.daxformatter.com/
+
+DATESYTD
+https://docs.microsoft.com/en-us/dax/datesytd-function-dax
+
+SAMEPERIODLASTYEAR
+https://learn.microsoft.com/en-us/dax/sameperiodlastyear-function-dax
+
+Filter functions
+https://learn.microsoft.com/en-us/dax/filter-functions-dax
+
+TOPN
+https://learn.microsoft.com/en-us/dax/topn-function-dax
+
+USERELATIONSHIP
+https://learn.microsoft.com/en-us/dax/userelationship-function-dax
+
+
+POWER BI SERVICES
+app.powerbi.com
+
+Configure and consume a dataflow
+https://learn.microsoft.com/en-us/power-bi/transform-model/dataflows/dataflows-configure-consume
+
+Data sources for the Power BI service
+https://learn.microsoft.com/en-us/power-bi/connect-data/service-get-data?WT.mc_id=DP-MVP-5003635
+
