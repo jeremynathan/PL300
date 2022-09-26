@@ -1,0 +1,51 @@
+Tips on Passing the PL-300
+
+Email me questions to Jeremy at jnathan@jncomputertraining.com. 
+
+Connect with me on LinkedIn: https://www.linkedin.com/in/jeremy-nathan-24332a20/
+
+Taking the exam from home
+Remove everything from your desk except one (1) monitor, keyboard, mouse and clear water container
+Get in to the Certification Dashboard at least a half hour before your test begins to get a proctor
+You scan the entire room with your webcam, show your sleeves, show your eye-glasses (if wearing)
+Webcam takes a picture of your ID
+Show your phone and put the phone behind your seat
+
+Power BI PL-300: you have 180 minutes (I finished with 50 minutes to go) so relax, DO NOT HURRY
+Read the entire question twice, don’t let them trip you up with all the words of the questions
+5 sections:
+The first section of questions is just a survey and does not count for your score
+There were two case studies with about 5 questions each and then 39 questions after that
+The case studies and about 3 other questions had more details on the right side of the screen
+You don’t use the keyboard, just the mouse
+Some questions were select two checkboxes for the two correct answers (1 point each)
+Some questions were three steps that you had to slide to answer section and put in order
+Some questions were drop-down lists such as completing DAX measures
+
+Topics to study
+TOPN with Calculate and DESC at the end
+BIN and LIST for grouping
+SUMMARIZE, FILTER
+Azure blob storage, SharePoint Folder, Azure SQL Server
+Removing unneeded columns to make the visuals refresh quicker
+Removing unneeded columns in Power Query to make the data model smaller
+A few questions on the on-premises data gateway
+tooltips, page filters, 
+M Language, table.profile, table.distinct M Language
+https://docs.microsoft.com/en-us/powerquery-m/table-distinct
+https://docs.microsoft.com/en-us/powerquery-m/table-profile
+Member, contributor…roles
+Column quality, column profile, statistics in Power Query Editor
+Row-level security
+Visual interactions
+Sync slicers
+Filter entire report of every page
+Workspace: development, test, production phases for datasets
+Key influencers visual
+How to make a quick measure
+
+Prepare
+Clone assets and go through labs from https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst
+
+Download exam outline and go through modules on Microsoft Learn website: 
+https://learn.microsoft.com/en-us/certifications/exams/pl-300
